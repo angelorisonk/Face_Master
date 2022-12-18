@@ -36,7 +36,7 @@ To specify the output format, use the "--output_format" command line argument. T
 
 ```python image_trainer.py --output_format npz```
 
-# Fetures
+# Features
 
 1. Face detection and alignment using the MTCNN library: The code uses the MTCNN library to detect and align faces in the video frames. This helps to ensure that the captured face images are correctly oriented and centered.
 
@@ -66,7 +66,7 @@ To specify the output format, use the "--output_format" command line argument. T
 12. Update the label widgets with the number of images remaining and the time remaining.
 13. When all the images have been captured, save the images to the output file in the specified format.
 
-License
+# License
 This project is released under the MIT License https://opensource.org/licenses/MIT
 
 Credits
@@ -81,6 +81,6 @@ If you would like to contribute to this project, please follow these guidelines:
 3. Test your code thoroughly
 4. Submit a pull request
 # Issues
-If you encounter any issues while using this project, please report them here: (https://github.com/angelorisonk/Face_Master/pulls)
+If you encounter any issues while using this project, please report them here: https://github.com/angelorisonk/Face_Master/issues
 
 
