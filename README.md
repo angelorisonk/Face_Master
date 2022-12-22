@@ -1,4 +1,4 @@
-# The Face Master
+# The FaOb Master
 
 The goal of this project is to capture a set of face images from an input device, such as a webcam, and save them to a file in a specified format, such as a hdf5 file. The project uses the MTCNN detector to detect and crop the faces in the images, and then resizes the face images to a specified size before saving them to the output file.
 
